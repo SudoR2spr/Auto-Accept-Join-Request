@@ -2,6 +2,9 @@
 
 # Auto Accept Join Request [![License: MIT][License-Badge]](LICENSE)
 
+https://img.shields.io/github/forks/SudoR2spr/Auto-Accept-Join-Request
+
+
 <hr>
 <h5><img src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/Premium-icon/confetti.gif" align="center" width="50"> Hey I'll Auto Accept Telegram join requests bot Repo. Easy to Deploy and Bot Use simple.</h5>
 <p align="center">
