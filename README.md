@@ -62,6 +62,8 @@
 
  [![Contact Me On Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Farooq_is_king)
 
+ ![Static Badge](https://img.shields.io/badge/WOODcraft-red?style=social&logo=%2368BC71&logoSize=amg&link=https%3A%2F%2Ft.me%2FFarooq_is_king)
+
 [License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg  
 
 <hr>
