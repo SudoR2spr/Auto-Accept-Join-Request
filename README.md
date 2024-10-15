@@ -2,7 +2,8 @@
 
 # Auto Accept Join Request [![License: MIT][License-Badge]](LICENSE)
 
-https://img.shields.io/github/forks/SudoR2spr/Auto-Accept-Join-Request
+
+![GitHub forks](https://img.shields.io/github/forks/SudoR2spr/Auto-Accept-Join-Request)
 
 
 <hr>
